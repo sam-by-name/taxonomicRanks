@@ -1,0 +1,33 @@
+.home h1 {
+
+  text-align: center;
+  color     : green;
+}
+
+.nav {
+  width  : 17.5%;
+  left   : 2.5%;
+  top    : 15%;
+  position: absolute;
+}
+.nav h2 {
+  color  : brown;
+  font-weight: bold;
+}
+
+.homeCont {
+  width  : 50%;
+  left   : 25%;
+  top    : 15%;
+  position: absolute;
+}
+
+.homeCont h2 {
+  color  : brown;
+  font-style: italic;
+}
+.return {
+  text-align: center;
+  bottom  : 0;
+  position: fixed;
+}
